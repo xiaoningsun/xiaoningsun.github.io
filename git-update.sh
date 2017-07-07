@@ -1,5 +1,5 @@
 #!/bin/sh -e
 
 git add -A
-git commit -m "$1"
+git commit -m "Initial commit"
 git push
